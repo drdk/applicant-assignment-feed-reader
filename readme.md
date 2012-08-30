@@ -2,7 +2,7 @@
 
 The purpose of this repository is to create the basis for an assignment you as an applicant to a job at DR can complete in order to showcase your abilities as a software developer.
 
-This assignment is not meant to take more than 2 hours to complete, but feel free to spend as much time as you feel is necessaryto showcase your talents. *Also remember that this is not mandetory. If you've got some other code you would rather show us then simply send us a link to that instead. This is meant for you if you don't have an active show case.*
+This assignment is not meant to take more than 2 hours to complete, but feel free to spend as much time as you feel is necessary to showcase your talents. *Also remember that this is not mandetory. If you've got some other code you would rather show us then simply send us a link to that instead. This is meant for you if you don't have an active show case.*
 
 The assignment is a simple Rss Feed Reader that displays the current news from dr.dk (http://www.dr.dk/nyheder/service/feeds/allenyheder) in a reasonable design. The assignment has to be based on the code in the git repository you're currently browsing.
 
