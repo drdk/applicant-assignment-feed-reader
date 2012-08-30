@@ -1,0 +1,6 @@
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\Tester\bin\Debug\Tester.exe.config
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\Tester\bin\Debug\Tester.exe
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\Tester\bin\Debug\Tester.pdb
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\Tester\obj\x86\Debug\Tester.exe
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\Tester\obj\x86\Debug\Tester.pdb

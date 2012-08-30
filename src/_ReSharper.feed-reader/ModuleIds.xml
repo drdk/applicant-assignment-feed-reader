@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="ADC8BB3D-63D1-4F69-BCDB-F755BEBDB9B7" ModuleId="DR.FeedReader.RssFeedRepository" />
+  <Module PersistentId="9BE3162F-5CA3-4EDF-8252-731F0979C1AF" ModuleId="Tester" />
+  <Module PersistentId="System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.ServiceModel" />
+  <Module PersistentId="224861C8-A2B0-443F-993D-273D0E712B31" ModuleId="DR.FeedReader.Web" />
+</Modules>

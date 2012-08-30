@@ -1,0 +1,9 @@
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\DR.FeedReader.Web\bin\DR.FeedReader.Web.dll
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\DR.FeedReader.Web\bin\DR.FeedReader.Web.pdb
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\DR.FeedReader.Web\bin\DR.FeedReader.RssFeedRepository.dll
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\DR.FeedReader.Web\bin\AutoMapper.dll
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\DR.FeedReader.Web\bin\DR.FeedReader.RssFeedRepository.pdb
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\DR.FeedReader.Web\bin\AutoMapper.xml
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\DR.FeedReader.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\DR.FeedReader.Web\obj\Debug\DR.FeedReader.Web.dll
+C:\Users\Jonas Swiatek\Source Code\github-com-repositories\applicant-assignment-feed-reader\src\DR.FeedReader.Web\obj\Debug\DR.FeedReader.Web.pdb
