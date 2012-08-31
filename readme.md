@@ -6,9 +6,9 @@ This assignment is not meant to take more than 2 hours to complete, but feel fre
 
 ## The Assignment
 
-The assignment is to create a simple News Feed Reader that displays the current news from dr.dk. in a reasonable design. We ask that you choose between one of the two ways to solve the assignment listed below. If you have .NET experience choose the first and if you don't choose the second.
+The assignment is to create a simple News Feed Reader that displays the current news from dr.dk. in a reasonable design.
 
-Please hand in your solution no later than 24 hours before the job interview.
+We ask that you choose between one of the two ways to solve the assignment listed below. If you have .NET experience choose the first and if you don't choose the second. Please hand in your solution no later than 24 hours before the job interview.
 
 ### .NET solution
 
