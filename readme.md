@@ -8,11 +8,11 @@ This assignment is not meant to take more than 2 hours to complete, but feel fre
 
 The assignment is to create a simple News Feed Reader that displays the current news from dr.dk. in a reasonable design.
 
-We ask that you choose between one of the two ways to solve the assignment listed below. If you have .NET experience choose the first and if you don't choose the second. Please hand in your solution no later than 24 hours before the job interview.
+The assignment has both a frontend and a backend part. You can choose to solve only one of part if you don't feel you've the skill set to complete the other. Please hand in your solution no later than 24 hours before the job interview.
 
 ### .NET solution
 
-The assignment has to be based on the code in the git repository you're currently browsing. Feel free to simply fork it on github and commit your final solution there. Just send us the link to your fork. Alternatively you can simply download the repository as a zip file. We, however, prefer that you use git, since we use that as well.
+The assignment has to be based on the code in the git repository you're currently browsing. Feel free to simply fork it on github and commit your final solution there. Just send us the link to your fork. Alternatively you can simply download the repository as a zip file and email is your solution as a zip in return. We, however, prefer that you use git as we use this as well. 
 
 There are no limitations to how you solve this, but observing the following guidelines would be advantageous:
 
