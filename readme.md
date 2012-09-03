@@ -8,7 +8,7 @@ This assignment is not meant to take more than 2 hours to complete, but feel fre
 
 The assignment is to create a simple News Feed Reader that displays the current news from dr.dk. in a reasonable design.
 
-The assignment has both a frontend and a backend part. You can choose to solve only one of part if you don't feel you've the skill set to complete the other. Please hand in your solution no later than 24 hours before the job interview.
+The assignment has both a frontend and a backend part. You can choose to solve only one part if you don't feel you've the skill set to complete the other. Please hand in your solution no later than 24 hours before the job interview.
 
 ### .NET solution
 
