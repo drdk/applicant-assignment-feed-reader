@@ -10,7 +10,7 @@ The assignment is to create a simple News Feed Reader that displays the current 
 
 The assignment has both a frontend and a backend part. You can choose to solve only one part if you don't feel you've the skill set to complete the other. Please hand in your solution no later than 24 hours before the job interview.
 
-_PLEASE BE AWARE THAT FORKING ON GITHUB IS VISIBLE TO THE PUBLIC, SO IF YOU WISH TO REMAIN ANONYMOUS YOU SHOULD MAKE A MANUAL FORK, OR SUBMIT YOUR SOLUTION AS A ZIP FILE TO US_
+_PLEASE BE AWARE THAT FORKING ON GITHUB IS VISIBLE TO THE PUBLIC. IF YOU WISH TO REMAIN ANONYMOUS YOU CAN FORK MANUALLY OR SUBMIT YOUR SOLUTION AS A ZIP FILE TO US_
 
 ### .NET solution
 
