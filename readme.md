@@ -36,4 +36,4 @@ You're allowed to keep a static copy of the data feed in your solution to avoid 
 
 ### News feeds
 * XML:  http://www.dr.dk/nyheder/service/feeds/allenyheder
-* JSON: http://www.dr.dk/php/drmu/mobildrdk/leproxy2.php?f=news
+* JSON: http://www.dr.dk/tjenester/mobil-feeds/nyheder
